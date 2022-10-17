@@ -1,5 +1,5 @@
 # Bootcamp TQI/DIO
 
-Desafio de projeto sobre Javascript
+## Desafio de projeto | Jogo da Memória
 
-## Jogo da Memória
+
