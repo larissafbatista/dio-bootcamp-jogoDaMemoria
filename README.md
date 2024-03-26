@@ -1,5 +1,5 @@
-# Bootcamp TQI/DIO
+## Bootcamp TQI/DIO
 
-## Desafio de projeto | Jogo da Memória
+Desafio de projeto | Jogo da Memória
 
 
